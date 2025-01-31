@@ -121,7 +121,7 @@ curl -X POST "http://localhost:8000/ask" \
 ├── requirements.txt       # Python dependencies  
 ├── demo_bot_data/         # Directory for markdown documentation  
 │   └── ubuntu-docs/       # Ubuntu documentation files  
-├── screenshots/           # Demo video and screenshots 
+├── images                 # screenshots 
 ├── OUTCOMES.md            # Screenshots and results documentation  
 └── README.md              # This file  
 ```
@@ -136,7 +136,7 @@ curl -X POST "http://localhost:8000/ask" \
 ---
 
 ## 🎥 Demo Video
-Watch the working demo of the Ubuntu Documentation Chatbot in action: ![demo](screenshots\Demo.mp4)
+Watch the working demo of the Ubuntu Documentation Chatbot in action: ![demo](Demo.mp4)
 
 The demo showcases:
 
