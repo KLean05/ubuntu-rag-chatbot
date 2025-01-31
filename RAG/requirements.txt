@@ -1,0 +1,6 @@
+fastapi
+faiss-cpu
+langchain
+langchain_huggingface
+langchain_community
+uvicorn
