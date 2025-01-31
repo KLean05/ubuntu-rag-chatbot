@@ -136,7 +136,7 @@ curl -X POST "http://localhost:8000/ask" \
 ---
 
 ## 🎥 Demo Video
-Watch the working demo of the Ubuntu Documentation Chatbot in action: ![demo](Demo.mp4)
+Watch the working demo of the Ubuntu Documentation Chatbot in action: ![demo](https://drive.google.com/file/d/1OGSLEhTKpeiHDDadG-kn8wBFjIH9Ndmv/view?usp=sharing)
 
 The demo showcases:
 
